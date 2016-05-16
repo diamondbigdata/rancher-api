@@ -1,0 +1,24 @@
+{
+  "name": "rancher-api",
+  "version": "1.0.0",
+  "description": "NodeJS Wrapper for Rancher Docker UI API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nusrath/rancher-api.git"
+  },
+  "keywords": [
+    "rancher",
+    "api",
+    "wrapper"
+  ],
+  "author": "Nusrath Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nusrath/rancher-api/issues"
+  },
+  "homepage": "https://github.com/Nusrath/rancher-api#readme"
+}
