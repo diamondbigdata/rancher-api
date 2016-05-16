@@ -67,8 +67,8 @@ module.exports = function rancher(host, port, user, pass){
 		remove: function (id, callback){
 			call('DELETE', '/v1/projects/1a5/containers/' + id, null, callback);
 		},
-		purg: function (id, callback){
-			call('POST', '/v1/projects/1a5/containers/' + id + '/?action=stop', null, callback);
+		purge: function (id, callback){
+			call('POST', '/v1/projects/1a5/containers/' + id + '/?action=purge', null, callback);
 		}
 	}
 }
