@@ -1,5 +1,8 @@
 # rancher-api
-NodeJS Wrapper for Rancher Docker UI API
+NodeJS Wrapper for Rancher Docker UI API 
+
+[![npm version](https://badge.fury.io/js/rancher-api.svg)](https://badge.fury.io/js/rancher-api)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)
 
 [![NPM](https://nodei.co/npm/rancher-api.png)](https://nodei.co/npm/rancher-api/)
 
