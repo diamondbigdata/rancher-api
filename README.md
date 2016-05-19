@@ -1,6 +1,8 @@
 # rancher-api
 NodeJS Wrapper for Rancher Docker UI API
 
+[![NPM](https://nodei.co/npm/rancher-api.png)](https://nodei.co/npm/rancher-api/)
+
 ## About
 This is just a little project i thought I would kick-up, seeing that I was in need of a NodeJS interface for Rancher, with just some light-weight functionality.
 
